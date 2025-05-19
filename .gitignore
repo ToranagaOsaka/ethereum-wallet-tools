@@ -1,0 +1,6 @@
+# node_modules usually ignored
+node_modules/
+secrets/
+
+#Privatekeys.bin
+#.env

@@ -1,0 +1,6 @@
+{
+  "rpc": "https://mainnet.infura.io/v3/7d5c3d72e3f44793b6a2fc17c4a17829",
+  "network": "mainnet",
+  "wallet_address": "0x527845Da79c0d9E5A1072FeBfA6eBcC4F1aE749B",
+  "gas_price": "36"
+}
