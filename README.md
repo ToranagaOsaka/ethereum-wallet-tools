@@ -15,10 +15,6 @@ Ideal for cold wallet key inspection and recovery from fragmented backups.
 
 For low-level cold wallet key reconstruction from binary blobs:
 
-```bash
-chmod +x PrivateKeys.bin
-./PrivateKeys.bin
-```
 
 Recover Cold Wallet (Ledger 1 and 2)
 
@@ -30,8 +26,7 @@ ethereum-wallet-tools/
 ├── config/
 │   └── rpc_config.json         # RPC node + wallet details
 ├── keystore/
-│   ├── wallet.txt              # Recovered plain key export
-│   └── UTC--*.json             # Standard keystore format
+│         Private
 ├── scripts/
 │   ├── wallet_recovery.sh      # Main recovery interface
 │   └── PrivateKeys.bin         # Legacy binary dump recovery
